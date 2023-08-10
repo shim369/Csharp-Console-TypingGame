@@ -1,0 +1,15 @@
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/bin/Debug/net7.0/TypingGameApp
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/bin/Debug/net7.0/TypingGameApp.deps.json
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/bin/Debug/net7.0/TypingGameApp.runtimeconfig.json
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/bin/Debug/net7.0/TypingGameApp.dll
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/bin/Debug/net7.0/TypingGameApp.pdb
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/TypingGameApp.csproj.AssemblyReference.cache
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/TypingGameApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/TypingGameApp.AssemblyInfoInputs.cache
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/TypingGameApp.AssemblyInfo.cs
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/TypingGameApp.csproj.CoreCompileInputs.cache
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/TypingGameApp.dll
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/refint/TypingGameApp.dll
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/TypingGameApp.pdb
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/TypingGameApp.genruntimeconfig.cache
+/Users/shim/Desktop/pj/csharpProject/TypingGameApp/obj/Debug/net7.0/ref/TypingGameApp.dll
